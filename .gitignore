@@ -1,7 +1,8 @@
 *.pyc
 *~
 __pycache__
-myvenv
+myenv
 db.sqlite3
 staticfiles
+talks/migrations
 .DS_Store

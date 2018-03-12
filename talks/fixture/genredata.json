@@ -1,8 +1,8 @@
 [
 {"model": "talks.genre", "pk": 1, "fields": {"gname": "Health"}},
-{"model": "talks.genre", "pk": 1, "fields": {"gname": "Education"}},
-{"model": "talks.genre", "pk": 1, "fields": {"gname": "Latest news"}},
-{"model": "talks.genre", "pk": 1, "fields": {"gname": "Social"}},
-{"model": "talks.genre", "pk": 1, "fields": {"gname": "Philosophical"}},
-{"model": "talks.genre", "pk": 1, "fields": {"gname": "Others"}}
+{"model": "talks.genre", "pk": 2, "fields": {"gname": "Education"}},
+{"model": "talks.genre", "pk": 3, "fields": {"gname": "Latest news"}},
+{"model": "talks.genre", "pk": 4, "fields": {"gname": "Social"}},
+{"model": "talks.genre", "pk": 5, "fields": {"gname": "Philosophical"}},
+{"model": "talks.genre", "pk": 6, "fields": {"gname": "Others"}}
 ]
